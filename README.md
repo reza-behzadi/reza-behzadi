@@ -4,7 +4,7 @@
   I’m Reza Behzadi </h1>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Fron-End+react+Developer;Always+learning+new+things;" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+RezaBehzadi;Computer+Science+Student;Fron-End+react+Developer;Always+learning+new+things;" alt="Title"></img>
 </div>
 
 <div align="center">
