@@ -46,7 +46,7 @@ Welcome to my profile  </h2>
 <!-- </p> -->
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
 <br />
 
@@ -65,9 +65,6 @@ Welcome to my profile  </h2>
   <img align="center" alt="Reza Behzadi | Telegram" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 </a> &nbsp;&nbsp;
   
-  <a href="https://dev.to/rezabehzadi" target="_blank">
-  <img align="center" alt="Reza Behzadi | DEV" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />
-</a> &nbsp;&nbsp;
   
   
 
