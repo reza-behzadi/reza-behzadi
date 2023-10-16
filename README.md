@@ -56,7 +56,7 @@ Welcome to my profile  </h2>
   </a> &nbsp;&nbsp;
   
   
-  <a href="linkedin.com/in/rezabehzadi" target="_blank">
+  <a href="linkedin.com/in/reza-behzadi" target="_blank">
   <img align="center" alt="Reza Behzadi | Linkedin" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
 </a> &nbsp;&nbsp;
   
