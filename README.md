@@ -34,15 +34,7 @@ Welcome to my profile  </h2>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 
 
-<br />
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats
-
-<div align="center">
-  
-<!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-behzadi&theme=algolia&line_height=40&hide=css"/> -->
-  
-<!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reza-behzadi&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-behzadi&layout=compact&langs_count=8&theme=algolia"/>
  
