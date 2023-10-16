@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi👋, I’m Reza Behzadi </h1>
+<h1 align="center">Hi👋,<br>
+  I’m Reza Behzadi </h1>
 
 <div align="center">
 
