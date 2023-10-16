@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi👋,<br>
-Welcome to my profile  </h1>
+<h2 align="center">Hi👋,<br>
+Welcome to my profile  </h2>
 
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+RezaBehzadi;Computer+Science+Student;Fron-End+react+Developer;Always+learning+new+things;" alt="Title"></img>
@@ -23,9 +23,9 @@ Welcome to my profile  </h1>
 
 
 <br />
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
 
-## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
+<img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
