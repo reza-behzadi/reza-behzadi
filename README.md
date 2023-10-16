@@ -28,13 +28,3 @@
 <br />
 
 
----
-
-<h3 align="left">Social Media & Ways of communication:</h3>
-<p>
- <a href="https://github.com/reza-behzadi"><img src="./icons/Github.svg" alt="GitHub" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://reza-behzadi0000@gmail.com"><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://www.linkedin.com
-/in/rezabehzadi"><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="#"><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://wa.me/+989165612186"><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
