@@ -18,11 +18,7 @@
 
 
 
-<p align="center">
-     Front end programmer🖥 <br> 
-     Computer science stude👨🏻‍💻<br> 
-  Love the world of zero and one💻
-</p>
+
 
 <br />
 
