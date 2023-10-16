@@ -1,16 +1,13 @@
+<div align="center" > 
 #  who am i? 👨‍💻
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-<div align="center">
-
-  
-
-
-  
-<img src='https://i.pinimg.com/originals/de/7e/63/de7e63d9ebdbe909a53e4c9facfa4ce6.gif' width="300">
-
-
 <h1 align="center">Hi, I’m Reza Behzadi </h1>
+
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+
+
+
+
 <p align="center">
      Front end programmer🖥 <br> 
      Computer science stude👨🏻‍💻<br> 
