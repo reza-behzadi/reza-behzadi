@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m Reza Behzadi </h1>
 <p align="center">
-     Front end programmer🖥
+     Front end programmer🖥 <br> 
      Computer science stude👨🏻‍💻
   Love the world of zero and one
 </p>
