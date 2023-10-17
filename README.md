@@ -41,13 +41,12 @@ Welcome to my profile  </h2>
   
 </div>
 
-<!-- <p align="center"> -->  
-<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=reza-behzadi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" /> -->
-<!-- </p> -->
+ <p align="center"> 
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=reza-behzadi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
 
 
 <img align="center" 
-src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px"><h2>Connect with me:<h2/> 
+src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
 <br />
 
