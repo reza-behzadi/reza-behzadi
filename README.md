@@ -46,8 +46,8 @@ Welcome to my profile  </h2>
 <!-- </p> -->
 
 
-## <img align="center" 
-src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
+<img align="center" 
+src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px"><h2>Connect with me:<h2/> 
 
 <br />
 
