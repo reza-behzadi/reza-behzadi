@@ -33,7 +33,7 @@ Welcome to my profile  </h2>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 
 
-<img align="center" src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"><h2>About Some Stats:<h2/> 
+<img align="center" src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px">About Some Stats:
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-behzadi&layout=compact&langs_count=8&theme=algolia"/>
  
@@ -46,7 +46,7 @@ Welcome to my profile  </h2>
 <!-- </p> -->
 
 
- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px"><h3>Connect with me:<h3/> 
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
 <br />
 
