@@ -4,7 +4,7 @@
 Welcome to my profile  </h2>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=f74086&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Reza+Behzadi;Computer+Science+Student;Fron-End+react+Developer;Always+learning+new+things;" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=f74086&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Reza+Behzadi;Computer+Science+Student;Fron-End+Developer;Always+learning+new+things;" alt="Title"></img>
 </div>
 
 <div align="center">
