@@ -10,22 +10,52 @@ Welcome to my profile</h2>
   <br />
   <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px">Languages and Tools:
 
-  <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-  <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-  <code><img title="Redux" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
-  <code><img title="Material UI" alt="Material UI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></code>
-  <code><img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
-  <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://simpleicons.org/icons/tailwindcss.svg" /></code>
-  <code><img title="CI/CD" alt="CI/CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" /></code>
-  <code><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
-  <code><img title="Android" alt="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
-  <code><img title="iOS" alt="iOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-  <code><img title="Jest" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
-  <code><img title="GitLab CI/CD" alt="GitLab CI/CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></code>
+  <div>
+    <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+    <br><span>HTML 5</span>
+    
+    <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+    <br><span>CSS 3</span>
+
+    <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+    <br><span>JavaScript</span>
+
+    <code><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+    <br><span>TypeScript</span>
+
+    <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+    <br><span>ReactJS</span>
+
+    <code><img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+    <br><span>Next.js</span>
+
+    <code><img title="Redux" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
+    <br><span>Redux</span>
+
+    <code><img title="Material UI" alt="Material UI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></code>
+    <br><span>Material UI</span>
+
+    <code><img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+    <br><span>Bootstrap</span>
+
+    <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://simpleicons.org/icons/tailwindcss.svg" /></code>
+    <br><span>Tailwind CSS</span>
+
+    <code><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
+    <br><span>Docker</span>
+
+    <code><img title="Android" alt="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+    <br><span>Android</span>
+
+    <code><img title="iOS" alt="iOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+    <br><span>iOS</span>
+
+    <code><img title="Jest" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
+    <br><span>Jest</span>
+
+    <code><img title="GitLab CI/CD" alt="GitLab CI/CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></code>
+    <br><span>GitLab CI/CD</span>
+  </div>
 
   <img align="center" src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats:
 
@@ -42,15 +72,23 @@ Welcome to my profile</h2>
   <p align="center">
     <a href="mailto:rezabehzadi457@gmail.com">
       <img align="center" alt="Reza Behzadi | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+      <br><span>Gmail</span>
     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/reza-behzadi" target="_blank">
       <img align="center" alt="Reza Behzadi | Linkedin" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
+      <br><span>LinkedIn</span>
     </a> &nbsp;&nbsp;
     <a href="https://t.me/rza_behzadi" target="_blank">
       <img align="center" alt="Reza Behzadi | Telegram" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+      <br><span>Telegram</span>
     </a> &nbsp;&nbsp;
     <a href="https://gitlab.com/rza.behzadi" target="_blank">
       <img align="center" alt="Reza Behzadi | GitLab" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" />
+      <br><span>GitLab</span>
+    </a> &nbsp;&nbsp;
+    <a href="https://wa.me/989165612186" target="_blank">
+      <img align="center" alt="Reza Behzadi | WhatsApp" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" />
+      <br><span>WhatsApp</span>
     </a> &nbsp;&nbsp;
   </p>
 </p>
