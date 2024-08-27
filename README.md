@@ -17,13 +17,13 @@ Welcome to my profile</h2>
   <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
   <code><img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
   <code><img title="Redux" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
-  <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
   <code><img title="Material UI" alt="Material UI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></code>
   <code><img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+  <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://simpleicons.org/icons/tailwindcss.svg" /></code> <!-- Tailwind CSS icon -->
   <code><img title="CI/CD" alt="CI/CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" /></code>
   <code><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
-  <code><img title="PWA" alt="PWA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
   <code><img title="Android" alt="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+  <code><img title="iOS" alt="iOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code> <!-- iOS icon -->
   <code><img title="Jest" alt="Jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
 
   <img align="center" src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats:
@@ -39,10 +39,10 @@ Welcome to my profile</h2>
   
   <br />
   <p align="center">
-    <a href="reza.behzadi0000@gmail.com" >
+    <a href="mailto:rezabehzadi457@gmail.com">
       <img align="center" alt="Reza Behzadi | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
     </a> &nbsp;&nbsp;
-    <a href="linkedin.com/in/reza-behzadi" target="_blank">
+    <a href="https://www.linkedin.com/in/reza-behzadi" target="_blank">
       <img align="center" alt="Reza Behzadi | Linkedin" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://t.me/rza_behzadi" target="_blank">
